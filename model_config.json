@@ -1,0 +1,19 @@
+{
+  "input_shape": [
+    32,
+    32,
+    3
+  ],
+  "num_classes": 7,
+  "class_names": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "img_size": 32,
+  "test_accuracy": 0.7388916625062406
+}
